@@ -2,6 +2,15 @@
 
 Complete Node.js + Express.js backend API for managing mess subscriptions, coupons, and meal attendance.
 
+## 🔒 Security Updates
+
+**Latest Update: 2026-01-31**
+- ✅ Updated Cloudinary to v2.7.0 (fixed arbitrary argument injection)
+- ✅ Updated Multer to v2.0.2 (fixed multiple DoS vulnerabilities)
+- ✅ Updated Nodemailer to v7.0.7 (fixed email domain interpretation conflict)
+
+See [SECURITY.md](../SECURITY.md) for complete details.
+
 ## 🚀 Features
 
 - ✅ JWT Authentication & Authorization
